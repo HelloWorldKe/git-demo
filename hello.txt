@@ -1,4 +1,8 @@
 hello world!
 hello ke!
 hello git!
+<<<<<<< HEAD
 hello master!
+=======
+hello host-fix!
+>>>>>>> hot-fix
